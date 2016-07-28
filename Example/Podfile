@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FNMatchPull_Example' do
+  pod 'FNMatchPull', :path => '../'
+
+  target 'FNMatchPull_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

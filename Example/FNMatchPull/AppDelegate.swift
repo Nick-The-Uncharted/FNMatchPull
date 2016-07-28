@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FNMatchPull
 //
-//  Created by Nick-The-Uncharted on 07/28/2016.
-//  Copyright (c) 2016 Nick-The-Uncharted. All rights reserved.
+//  Created by Fnoz on 16/6/26.
+//  Copyright © 2016年 Fnoz. All rights reserved.
 //
 
 import UIKit

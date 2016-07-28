@@ -1,0 +1,6 @@
+framework module Pods_FNMatchPull_Tests {
+  umbrella header "Pods-FNMatchPull_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

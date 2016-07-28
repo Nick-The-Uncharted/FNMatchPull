@@ -1,0 +1,16 @@
+PODS:
+  - FNMatchPull (0.1.0)
+
+DEPENDENCIES:
+  - FNMatchPull (from `../`)
+
+EXTERNAL SOURCES:
+  FNMatchPull:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FNMatchPull: 8fa94641ab188776eb560ae4c5f3da528a349299
+
+PODFILE CHECKSUM: 636f5f6c8e503f16764c0662f14a1d1cfb9f5b1e
+
+COCOAPODS: 1.0.1

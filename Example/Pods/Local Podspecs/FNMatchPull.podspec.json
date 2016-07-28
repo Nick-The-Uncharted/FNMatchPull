@@ -1,0 +1,22 @@
+{
+  "name": "FNMatchPull",
+  "version": "0.1.0",
+  "summary": "A short description of FNMatchPull.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/FNMatchPull",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nick-The-Uncharted": "605820993@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/FNMatchPull.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FNMatchPull/Classes/**/*"
+}
